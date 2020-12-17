@@ -1,0 +1,8 @@
+
+.hover-text {
+    color: black;
+  }
+  
+  .hover-text:hover {
+    color: blue;
+  }
